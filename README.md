@@ -3,5 +3,5 @@ It is a Chat Application with an interface that can be communicated between clie
 
 ## Getting Started
 You enter your name and you join server. After this You can send message to other people on the server. 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Chat](https://github.com/berkantrl/Socket_Programming/Photos/chat.png)
 

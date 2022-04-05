@@ -10,7 +10,6 @@ You enter your name and you join server. After this You can send message to othe
 
 ### Installing
 
-Some basic Git commands are:
 ```
 git clone https://github.com/berkantrl/Socket_Programming.git
 ```
